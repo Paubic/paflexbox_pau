@@ -1,2 +1,63 @@
 /* LAYOUT */
 /* ***** */
+body{
+
+    display: flex;
+    height: 100vh;
+
+}
+
+.contenedor{
+
+display: flex;
+width: 1360px;
+
+}
+
+header{
+
+    display: flex;
+    width: 100vw;
+   
+}
+
+main{
+
+    display: flex;
+    height: 100vw;
+    
+}
+
+footer{
+
+    display: flex;
+    align-items: flex-end;
+}
+
+.header__titulo{
+
+display: flex;
+flex-grow: 1;
+
+}
+.main__content{
+
+    display: flex;
+    flex-grow: 2;
+    
+
+}
+.footer__titulo{
+
+}
+.main__hero{
+
+    display: flex;
+}
+.main__sidebar{
+
+    display: flex;
+    flex-grow: 1;
+    
+
+}

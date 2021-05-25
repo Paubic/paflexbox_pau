@@ -1,6 +1,12 @@
 /* TIPOGRAFÍA */
 /* ********* */
 
+h6{
+
+    font-size: 18px;
+    font-family: sans-serif;
+}
+
 /* Variables */
 :root{
     

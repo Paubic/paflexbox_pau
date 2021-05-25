@@ -1,5 +1,47 @@
 /* COLOR */
 /* **** */
+:root{
+
+    --colorfooter: #807e7e;
+    --colorheader: #2385E0;
+    --header__titulo:#2385E0;
+    --main__hero: red;
+    --main__sidebar: rgb(133, 21, 123);
+    --main__content: green;
+    --colorultexto: #ffff;
+}
+
+footer{
+
+    background-color: var(--colorfooter);
+}
+
+header {
+
+    background-color: var(--colorheader);
+}
+
+main{
+
+
+}
+
+.main__hero{
+    background-color: var(--main__hero);
+}
+
+.main__sidebar{
+    background-color: var(--main__sidebar);
+}
+
+.main__content{
+background-color: var(--main__content);
+}
+
+h6{
+    color: var(--colorultexto);
+}
+
 
 /* Variables */
 :root{
