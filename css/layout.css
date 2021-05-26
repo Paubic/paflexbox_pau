@@ -18,6 +18,7 @@ header{
 
     display: flex;
     width: 100vw;
+    padding: 20px;
    
 }
 
@@ -32,6 +33,7 @@ footer{
 
     display: flex;
     align-items: flex-end;
+    padding: 20px;
 }
 
 .header__titulo{
@@ -44,6 +46,9 @@ flex-grow: 1;
 
     display: flex;
     flex-grow: 2;
+    padding: 20px;
+    margin: 10px;
+    
     
 
 }
@@ -53,11 +58,15 @@ flex-grow: 1;
 .main__hero{
 
     display: flex;
+    padding: 20px;
+    margin: 10px;
+    
 }
 .main__sidebar{
 
     display: flex;
     flex-grow: 1;
-    
+    padding: 20px;
+    margin: 10px;
 
 }
