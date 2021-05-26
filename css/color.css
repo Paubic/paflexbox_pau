@@ -18,11 +18,17 @@ footer{
 
 header {
 
-    background-color: var(--colorheader);
+   
 }
 
 main{
 
+
+}
+
+.header__titulo{
+
+    background-color: var(--colorheader);
 
 }
 
